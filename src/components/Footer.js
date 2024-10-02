@@ -38,7 +38,7 @@ const Footer = () => {
           <InstagramIcon />
         </a>
       </div>
-      <p>&copy; 2023 Anushka</p>
+      <p>&copy; 2024 Anushka</p>
     </div>
   );
 };

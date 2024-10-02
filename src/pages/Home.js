@@ -46,8 +46,8 @@ const Home = () => {
           <li className="item">
             <h2>Tools and Frameworks</h2>
             <span>
-              React.js, Redux, Next.js, Tailwind, Material UI, shadcn/ui, HTML5,
-              CSS, Git, Jira
+              React.js, Redux, Next.js, Tailwind CSS, Material UI, shadcn/ui,
+              HTML5, CSS, Git, Jira
             </span>
           </li>
           <li className="item">
@@ -60,8 +60,21 @@ const Home = () => {
           <li className="item">
             <h2>Certifications</h2>
             <span>
-              Hands-On Introduction: React (LinkedIn), Web Development (QSTP,
-              BITS Goa)
+              <a
+                href="https://www.linkedin.com/learning/certificates/2cea0bd365302253e8925a26e4025c0d1072ed9c688fd12fdd9a14325af17b90"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Hands-On Introduction: React (LinkedIn)
+              </a>
+              ,{" "}
+              <a
+                href="https://drive.google.com/file/d/1zD0eqJjS3LqX185rKDHhN5NM_d3978U6/view?usp=sharing"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Web Development (QSTP, BITS Goa)
+              </a>
             </span>
           </li>
         </ol>
